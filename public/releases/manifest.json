@@ -1,0 +1,42 @@
+{
+  "compiledAt": "2026-10-21T11:14:28Z",
+  "compiler": "Pygame + NumPy SDL2 & macOS Cocoa NSWindow Packager (Zero Browser Required)",
+  "artifacts": [
+    {
+      "id": "macos-app-bundle",
+      "filename": "VectraSwarm-macOS-App.zip",
+      "url": "/releases/VectraSwarm-macOS-App.zip",
+      "platform": "macOS Native .app (No Browser)",
+      "format": "Standalone Pygame+NumPy / Cocoa NSWindow (.zip)",
+      "sizeBytes": 131892,
+      "sha256": "ef369cba57464ef4fb03b89d839238e0c29b684933fab4eefec13503caa9e9bf"
+    },
+    {
+      "id": "macos-tar-gz",
+      "filename": "VectraSwarm-macOS-App.tar.gz",
+      "url": "/releases/VectraSwarm-macOS-App.tar.gz",
+      "platform": "macOS Native .app Tarball (No Browser)",
+      "format": "Standalone Pygame+NumPy / Cocoa NSWindow (.tar.gz)",
+      "sizeBytes": 130947,
+      "sha256": "a6c4206149ed2f07a7591411550de951c7fa99e8c49b688b44424c25f4aa0078"
+    },
+    {
+      "id": "macos-command",
+      "filename": "VectraSwarm-macOS.command",
+      "url": "/releases/VectraSwarm-macOS.command",
+      "platform": "macOS No-Unzip Desktop Launcher",
+      "format": "Builds ~/Desktop/VectraSwarm.app & Opens Pygame Window",
+      "sizeBytes": 23540,
+      "sha256": "5c1f8689068d42954baf94d63d7878fb082b4c59f929f653e76c8e7f6f75f29b"
+    },
+    {
+      "id": "windows-exe",
+      "filename": "VectraSwarm-Windows-x64.exe",
+      "url": "/releases/VectraSwarm-Windows-x64.exe",
+      "platform": "Windows 10/11 (x64 \u00b7 No Browser)",
+      "format": "Standalone Pygame+NumPy Executable (.exe)",
+      "sizeBytes": 15456,
+      "sha256": "5f6efd7dcb4739eb171030bcc9ce9880b1353c02cf9151b71dc25e1db5757a7e"
+    }
+  ]
+}

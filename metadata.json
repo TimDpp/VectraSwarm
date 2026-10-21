@@ -1,0 +1,6 @@
+{
+  "name": "Vectra Swarm: Infinite Wave Arena",
+  "description": "High-frequency infinite-map wave survival roguelite with vectorized NumPy/Float32 physics, 3-choice stackable power-up drafting, 5th-wave enemy archetypes, key rebinding, and high-contrast accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
